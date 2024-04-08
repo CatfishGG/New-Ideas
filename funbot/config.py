@@ -1,7 +1,7 @@
 # config.py
 
 # Bot token from the Discord Developer Portal
-BOT_TOKEN = 'MTIyNTcyODg0MzE4NTM5MzY3OA.G1I0Dm.uWmcxFJmI7fjbl_XKGSUcJiSZV61hAMrhQgUCg'
+BOT_TOKEN = 'MYTOKEN'
 
 # Bot command prefix (if you use commands from discord.ext.commands)
 COMMAND_PREFIX = '$'
